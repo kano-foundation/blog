@@ -8,3 +8,5 @@ fields:
     required: false
   description: rgrgr
   label: Test
+pages:
+- content/test.md
