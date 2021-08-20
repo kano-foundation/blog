@@ -1,4 +1,10 @@
 ---
 label: Blog Template
 hide_body: false
-fields: []
+fields:
+- name: test
+  type: text
+  config:
+    required: false
+  description: rgrgr
+  label: Test
