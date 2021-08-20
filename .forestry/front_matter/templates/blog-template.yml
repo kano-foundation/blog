@@ -9,4 +9,5 @@ fields:
   description: rgrgr
   label: Test
 pages:
+- content/123.md
 - content/test.md
