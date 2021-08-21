@@ -44,7 +44,7 @@ params:
     article:
         math: false
         toc: true
-        readingTime: true
+        readingTime: false
         license:
             enabled: false
             default: Licensed under CC BY-NC-SA 4.0
@@ -114,14 +114,14 @@ params:
     widgets:
         enabled:
             - search
-            - archives
+            # - archives
             - tag-cloud
 
         archives:
             limit: 5
 
         tagCloud:
-            limit: 10
+            # limit: 10
 
     opengraph:
         twitter:
@@ -160,6 +160,15 @@ menu:
           url: /
           weight: -100
           pre: home
+          params:
+              ### For demonstration purpose, the home link will be open in a new tab
+              newTab: false
+    penulis:
+        - identifier: penulis
+          name: Penulis
+          url: /staff
+          weight: -90
+          pre: user
           params:
               ### For demonstration purpose, the home link will be open in a new tab
               newTab: false
