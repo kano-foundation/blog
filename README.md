@@ -1,1 +1,1 @@
-# Blog Ka.No Foundation [![github pages](https://github.com/kanofoundation/blog/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/kanofoundation/blog/actions/workflows/build.yml)
+# Blog Ka.No Foundation [![github pages](https://github.com/kanofoundation/blog/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/kanofoundation/blog/actions/workflows/gh-pages.yml)
