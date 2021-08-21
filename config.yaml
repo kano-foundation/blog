@@ -120,8 +120,8 @@ params:
         archives:
             limit: 5
 
-        # tagCloud:
-            # limit: 10
+        tagCloud:
+            limit: 10
 
     opengraph:
         twitter:
