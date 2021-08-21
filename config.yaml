@@ -130,14 +130,6 @@ menu:
       newTab: false
     weight: 1
     identifier: home
-  penulis:
-  - pre: user
-    url: "/staff"
-    name: Penulis
-    params:
-      newTab: false
-    weight: 1
-    identifier: penulis
 related:
   includeNewer: true
   threshold: 60
