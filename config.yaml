@@ -35,7 +35,7 @@ params:
     readingTime: false
     license:
       enabled: false
-      default: Licensed under CC BY-NC-SA 4.0
+      default: Licensed under CC BY-NC-ND 4.0
   comments:
     enabled: true
     provider: disqus
